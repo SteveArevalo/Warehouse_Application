@@ -1,6 +1,5 @@
-# CS360_FinalProject
+# Warehouse Application
 
-## Warehouse Inventory Management App
 ### Overview
 This mobile application was developed to help warehouse staff efficiently manage inventory levels and send low inventory SMS alerts. The main goal of the app is to provide a simple, user-friendly interface to add, view, and delete inventory items while also allowing users to configure SMS alerts if stock falls below a critical threshold. It was built with first-time full-stack mobile app developers in mind and designed to reflect practical, real-world warehouse operations.
 
